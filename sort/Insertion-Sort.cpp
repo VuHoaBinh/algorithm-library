@@ -2,6 +2,7 @@
 using namespace std;
 
 /*
+Note: 0<= n =10^7
 Function: compare and change the direction of elements in an array.
 Defect: do not change index the number of reductions. 
 Advantages: easy to compare, compare the number of reductions
